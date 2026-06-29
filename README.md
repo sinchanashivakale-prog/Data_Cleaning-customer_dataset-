@@ -215,7 +215,6 @@ After completing this project, you will be able to:
 
 ```bash
 git clone https://github.com/sinchanashivakale-prog/Data_Cleaning-customer_dataset-.git
-
 ### Install Required Library
 
 ```bash
